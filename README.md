@@ -23,5 +23,5 @@ The implementation of the app is located in the [`APP Skin Classifier folder`](A
 
 ### Data Script
 
-The preprocessing, training, validation, Monte Carlo dropout, OOD, etc. can be found in the jupyter notebook OOD2  [`OOD.ipynb`](Notebook%20and%20Data/OOD.ipynb) which can be run with collab. However, the Datasets ([HAM10000](https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000)) must be downloaded and placed in the Google Drive for access. 
+The preprocessing, training, validation, Monte Carlo dropout, OOD, etc. can be found in the jupyter notebook [`OOD.ipynb`](Notebook%20and%20Data/OOD.ipynb) which can be run with collab. However, the Datasets ([HAM10000](https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000)) must be downloaded and placed in the Google Drive for access. 
 
